@@ -11,3 +11,5 @@ The following files are contained:
  Trianglestate 2021-11-18 Experimentaldata N=72_CC-NC-NN_DMSO_[1_2_3].txt: Example input file from experimental single-state Example 2 in the paper
  
  Trianglestate 2022-1-22 Exampledata N=50,(l=[45,85,45],merr=[10,20, 10,20, 15,30])_[1_2_3].txt: Example input file with simulated data
+
+data-folder contains experimental input files from the paper
